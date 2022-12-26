@@ -1,6 +1,6 @@
 ## :computer: Olá, meu nome é <strong>Lucas!</strong>
 
-> Estudande de Engenharia da Computação - Unasp
+> Estudande de Engenharia da Computação
 
 > Atuante na área de Back-End Developer
 
