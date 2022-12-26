@@ -6,8 +6,8 @@
 
 ## 🚀 Minhas Hard Skills
 
-<img height="32" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="Python"/>
-<img height="32" src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django Rest Freamework"/>
+<code><img height="32" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="Python"/></code>
+<code><img height="32" src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django Rest Freamework"/></code>
 
 
 ## ⭐ Informações sobre minha conta GitHub
