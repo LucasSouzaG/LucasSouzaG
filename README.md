@@ -1,16 +1,20 @@
-### Hi there 👋
+## :computer: Olá, meu nome é <strong>Lucas!</strong>
 
-<!--
-**LucasSouzaG/LucasSouzaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Estudande de Engenharia da Computação - Unasp
 
-Here are some ideas to get you started:
+> Atuante na área de Back-End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Hard Skills
+
+<code><img height="32" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="Python"/></code>
+<code><img height="32" src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django Rest Freamework"/></code>
+
+
+## ⭐ Informações sobre minha conta GitHub
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasSouzaG&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Lucas Souza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouzaG&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+</div>
+
+## 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasSouzaG&bg_color=000000&color=ffffff&line=fcfcfc&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
