@@ -1,8 +1,8 @@
-## :computer: Olá, meu nome é <strong>Lucas!</strong>
+## :computer: Bem vindo(a), meu nome é <strong>Lucas!</strong>
 
-> Estudande de Engenharia da Computação
+> Formação: Engenharia da Computação
 
-> Atuante na área de Back-End Developer
+> Software Developer Backend Jr.
 
 ## 🚀 Minhas Hard Skills
 
@@ -10,7 +10,7 @@
 <code><img height="32" src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="Django Rest Freamework"/></code>
 
 
-## ⭐ Informações sobre minha conta GitHub
+## :page_with_curl: Informações sobre minha conta GitHub
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasSouzaG&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Lucas Souza github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSouzaG&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
