@@ -18,6 +18,3 @@
 
 ## 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasSouzaG&bg_color=000000&color=ffffff&line=fcfcfc&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![](https://visitcount.itsvg.in/api?id=LucasSouzaG&icon=000)](https://visitcount.itsvg.in)
